@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9905868714118881",
+    enable_page_level_ads: true
+  })
+  background-color: rgba(201, 206, 253, 1);
+  padding: 0px;
+}
+.grid-container > div {
+  background-color: rgba(7, 182, 132, 0.8);
+  text-align: center;
+  padding: 5px 0;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="grid-container">
+
+
+
+<div class="item1"><p style="color:white;font-family:monospace;font-size:95px">KNOWNOW</p></div>
+
+
+ <div class="item2"><p style="color:red;font-family:courier"><a href="https://www.weldtech.online">Invest in new Quant fund!</a></p></div>
+
+
+ <div class="item3"><p style="color:white;font-family:monospace"><a href="https://www.politico.com/story/2018/02/20/trump-fbi-florida-school-shooting-white-house-press-briefing-417289">Trump backs down on FBI critcism</a></p></div>
+
+<div class="item4"><a href="https://www.weldtech.online"><p style="color:white;font-family:monospace">Billy Graham dies</a></p></div>
+
+ <div class="item5"><p style="color:white;font-family:monospace"><a href="http://www.dw.com/en/winter-olympics-day-11-roundup/a-42651211">Olympic Round-up</a></p></div>
+
+ <div class="item6"><p style="color:white;font-family:monospace"><a href="https://www.theguardian.com/business/live/2018/feb/21/markets-uk-unemployment-wages-interest-rates-mark-carney-bank-of-england-business-live">UK Jobs hit hard</a></p></div>
+
+ <div class="item7"><p style="color:white;font-family:monospace"><a href="https://www.ft.com/content/0df1917a-16ea-11e8-9e9c-25c814761640">Lloyds amitious plans</a></p></div>
+
+ <div class="item8"><p style="color:white;font-family:monospace"><a href="https://www.economist.com/news/china/21737074-some-technologies-it-has-surpassed-it-china-will-soon-have-air-power-rivalling-wests">China's Military Aviation on the up</a></p></div>
+
+ <div class="item9"><p style="color:white;font-family:monospace"><a href="https://www.investing.com/news/stock-market-news/wall-street-set-to-open-flat-ahead-of-fed-minutes-1286956">Wall Street Opens Higher</a></p></div>
+
+
+ <div class="item10"><p style="color:white;font-family:monospace"><a href="http://uk.businessinsider.com/theresa-may-brexit-transition-indefinitely-beyond-december-negotiating-guidelines-2020-2018-2">Theresa May U-Turn over Transition Deal</a></p></div>
+
+ <div class="item11"><p style="color:white;font-family:monospace"><a href="https://www.weldtech.online">Latvian Banking Official accused of taking Bribe</a></p></div>
+</div>
+
+</body>
+</html>
